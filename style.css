@@ -103,7 +103,6 @@ a.logo.sticky {
   top: 0;
   right: 0;
   background-color: white;
-  overflow-y: auto;
 }
 
 .nav a {
@@ -119,16 +118,13 @@ a.logo.sticky {
   display: flex;
 }
 
-ul {
-  margin-top: 30px;
-}
-
 ul.pages {
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
   height: 100%;
   text-align: left;
+  list-style: none;
 }
 
 ul.pages li {
@@ -399,17 +395,17 @@ p.copyright {
   margin-bottom: 50px;
 }
 
-ul {
+ul.footer {
   list-style: none;
   text-align: center;
   margin-top: 25px;
 }
 
-li {
+ul.footer li {
   margin-bottom: 15px;
 }
 
-li a {
+ul.footer li a {
   font-size: 1.1em;
   color: white;
 }
