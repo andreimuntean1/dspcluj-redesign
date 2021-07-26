@@ -4,7 +4,7 @@ Văzând cât de învechit e site-ul [DSP Cluj](https://dspcluj.ro) și primind 
 
 ![Website screenshot](https://i.postimg.cc/ncdGZbQW/screenshot.png)
 
-Am folosit numai HTML, CSS și puțin JavaScript. Design-ul e făcut în Adobe XD. 
+Am folosit numai **HTML**, **CSS** și puțin **JavaScript**. Design-ul e făcut în Adobe XD. 
 
 
 ### Vă aștept cu păreri și sugestii pe [Reddit](https://reddit.com)
