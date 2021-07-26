@@ -7,4 +7,4 @@ Văzând cât de învechit e site-ul [DSP Cluj](https://dspcluj.ro) și primind 
 Am folosit numai **HTML**, **CSS** și puțin **JavaScript**. Design-ul e făcut în Adobe XD. 
 
 
-### Vă aștept cu păreri și sugestii pe [Reddit](https://reddit.com)
+### Vă aștept cu păreri și sugestii pe [Reddit](https://www.reddit.com/r/Romania/comments/or38pj/siteul_dsp_cluj/h6l610s?utm_medium=android_app&utm_source=share&context=3)
