@@ -2,7 +2,7 @@
 
 Văzând cât de învechit e site-ul [DSP Cluj](https://dspcluj.ro) și primind provocarea pe Reddit, am decis să-l pe partea de front-end, pentru a fi mai modern, mai ușor de folosit, mai intuitiv și mobile-friendly.
 
-![Website screenshot](https://i.postimg.cc/G2s5T3v9/screencapture-127-0-0-1-5500-index-html-2021-07-26-15-59-02.png)
+![Website screenshot](https://i.postimg.cc/ncdGZbQW/screenshot.png)
 
 Am folosit numai HTML, CSS și puțin JavaScript. Design-ul e făcut în Adobe XD. 
 
