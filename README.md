@@ -1,6 +1,6 @@
 # Redesign-ul website-ului DSP Cluj
 
-Văzând cât de învechit e site-ul [DSP Cluj](https://dspcluj.ro) și primind provocarea pe Reddit, am decis să-l pe partea de front-end, pentru a fi mai modern, mai ușor de folosit, mai intuitiv și mobile-friendly.
+Văzând cât de învechit e site-ul [DSP Cluj](https://dspcluj.ro) și primind provocarea pe Reddit, am decis să-l refac pe partea de front-end, pentru a fi mai modern, mai ușor de folosit, mai intuitiv și mobile-friendly.
 
 ![Website screenshot](https://i.postimg.cc/ncdGZbQW/screenshot.png)
 
